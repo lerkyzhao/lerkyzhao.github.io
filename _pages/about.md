@@ -23,8 +23,8 @@ Research Interests
 
 Publications
 ------
-1. [MobiSys'24] [Practical Optical Camera Communication Behind Unseen and Complex Backgrounds.](https://7rem0r.github.io/files/WinkLink-MOBISYS24.pdf) Rui Xiao, **Leqi Zhao**, Feng Qian, Lei Yang, Jinsong Han.
-1. [INFOCOM'24] [One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi.](https://7rem0r.github.io/files/OneSense-INFOCOM24.pdf) **Leqi Zhao**, Rui Xiao, Jianwei Liu, Jinsong Han.
-1. [TDSC'22] [Privacy Leakage in Wireless Charging.](https://7rem0r.github.io/files/EM_Surfing-TDSC22.pdf) Jianwei Liu, Xiang Zou, **Leqi Zhao**, Yusheng Tao, Sideng Hu, Jinsong Han, Kui Ren.
+1. [MobiSys'24] [Practical Optical Camera Communication Behind Unseen and Complex Backgrounds.](https://lerkyzhao.github.io/files/WinkLink-MOBISYS24.pdf) Rui Xiao, **Leqi Zhao**, Feng Qian, Lei Yang, Jinsong Han.
+1. [INFOCOM'24] [One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi.](https://lerkyzhao.github.io/files/OneSense-INFOCOM24.pdf) **Leqi Zhao**, Rui Xiao, Jianwei Liu, Jinsong Han.
+1. [TDSC'22] [Privacy Leakage in Wireless Charging.](https://lerkyzhao.github.io/files/EM_Surfing-TDSC22.pdf) Jianwei Liu, Xiang Zou, **Leqi Zhao**, Yusheng Tao, Sideng Hu, Jinsong Han, Kui Ren.
 
 
