@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 ------
-I’m currently a fisrt-year Ph.D. student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I received my B.S. at Zhejiang University in 2023.
+I’m currently a second-year Ph.D. student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I received my B.S. at Zhejiang University in 2023.
 
 
 Research Interests
